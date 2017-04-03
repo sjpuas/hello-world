@@ -1,0 +1,23 @@
+{
+  "name": "hello-world.sjpuas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjpuas/hello-world.git"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "Sergio Puas <sergio@puas.cl>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjpuas/hello-world/issues"
+  },
+  "homepage": "https://github.com/sjpuas/hello-world#readme"
+}
